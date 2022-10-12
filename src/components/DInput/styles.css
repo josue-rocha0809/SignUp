@@ -1,0 +1,10 @@
+.label_Input{
+padding-bottom: 10px;
+padding-top: 10px;
+width: 50%;
+display: flex;
+font-weight: bold;
+}
+.box_input{
+width:82%;
+}
